@@ -13,6 +13,7 @@
 		81AB98D22C63E0B100028017 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 81AB98D12C63E0B100028017 /* Base */; };
 		81AB98D42C63E0B200028017 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81AB98D32C63E0B200028017 /* Assets.xcassets */; };
 		81AB98D72C63E0B200028017 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 81AB98D62C63E0B200028017 /* Base */; };
+		81AB98DF2C63E0E400028017 /* DayNightSwitcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81AB98DE2C63E0E400028017 /* DayNightSwitcher.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		81AB98D32C63E0B200028017 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		81AB98D62C63E0B200028017 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		81AB98D82C63E0B200028017 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		81AB98DE2C63E0E400028017 /* DayNightSwitcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayNightSwitcher.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				81AB98CE2C63E0B100028017 /* ViewController.swift */,
 				81AB98D02C63E0B100028017 /* Main.storyboard */,
 				81AB98D32C63E0B200028017 /* Assets.xcassets */,
+				81AB98DE2C63E0E400028017 /* DayNightSwitcher.swift */,
 				81AB98D52C63E0B200028017 /* LaunchScreen.storyboard */,
 				81AB98D82C63E0B200028017 /* Info.plist */,
 			);
@@ -140,6 +143,7 @@
 			files = (
 				81AB98CF2C63E0B100028017 /* ViewController.swift in Sources */,
 				81AB98CB2C63E0B100028017 /* AppDelegate.swift in Sources */,
+				81AB98DF2C63E0E400028017 /* DayNightSwitcher.swift in Sources */,
 				81AB98CD2C63E0B100028017 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
